@@ -1,5 +1,5 @@
 # 💫 About Me:
-An experienced Machine Learning & Software Engineer<br>Graduate in Information Systems at University of the Cumberlands (May'24)<br>Techinfo Services Inc, Ex-HCL, IIT Kharagpur'20<br>I’m currently working on Full Stack and DevOps projects<br>Open to collaboration!<br>
+An experienced Software Engineer<br>Graduate in Information Systems at University of the Cumberlands (May'24)<br>Techinfo Services Inc, Ex-HCL, IIT Kharagpur'20<br>I’m currently working on Full Stack and DevOps projects<br>Open to collaboration!<br>
 
 
 ## 🌐 Socials:
